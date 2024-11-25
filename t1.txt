@@ -1,2 +1,6 @@
 This is dev1 first commit.
+
 This is second line of code from dev1 and 2nd commit.
+
+This line is added by 2nd developer d2.
+
